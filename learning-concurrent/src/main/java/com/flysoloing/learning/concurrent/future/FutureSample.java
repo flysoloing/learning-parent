@@ -5,12 +5,12 @@ import java.util.TimerTask;
 import java.util.concurrent.*;
 
 /**
- * future测试<p>
+ * future示例<p>
  *
  * @user laitao
  * @date 2015/11/15 15:44
  */
-public class FutureTest {
+public class FutureSample {
 
     public static void main(String[] args) {
         //1、新建一个FutureTask任务
@@ -38,7 +38,7 @@ public class FutureTest {
             }
         });
 
-        //Timer守护线程执行计时
+        //Timer守护线程执行计时，每隔1秒输出一次当前时间
         Timer timer = new Timer(true);
         timer.schedule(new TimerTask() {
             @Override
