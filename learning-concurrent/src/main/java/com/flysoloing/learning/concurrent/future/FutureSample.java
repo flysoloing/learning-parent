@@ -29,9 +29,9 @@ public class FutureSample {
         //2、使用线程池提交一个Callable线程
 //        final Future<String> future = Executors.newCachedThreadPool().submit(new Callable<String>() {
 //        final Future<String> future = Executors.newSingleThreadExecutor().submit(new Callable<String>() {
-//        final Future<String> future = Executors.newFixedThreadPool(1).submit(new Callable<String>() {
+        final Future<String> future = Executors.newFixedThreadPool(1).submit(new Callable<String>() {
 //        final Future<String> future = Executors.newScheduledThreadPool(1).submit(new Callable<String>() {
-        final Future<String> future = Executors.newWorkStealingPool().submit(new Callable<String>() {
+//        final Future<String> future = Executors.newWorkStealingPool().submit(new Callable<String>() {
             public String call() throws Exception {
                 Thread.sleep(4000l);
                 return "TYPE 2 SUCCESS";
