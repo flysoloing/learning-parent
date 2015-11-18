@@ -7,7 +7,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 
 /**
- * <p>
+ * Executors.newScheduledThreadPool示例<p>
  *
  * @user laitao
  * @date 2015/11/18 0:36
