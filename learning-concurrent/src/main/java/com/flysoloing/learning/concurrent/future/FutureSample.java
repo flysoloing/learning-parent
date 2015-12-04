@@ -7,8 +7,8 @@ import java.util.concurrent.*;
 /**
  * future示例<p>
  *
- * @user laitao
- * @date 2015/11/15 15:44
+ * User: laitao<br>
+ * Date:  2015/11/15 15:44
  */
 public class FutureSample {
 

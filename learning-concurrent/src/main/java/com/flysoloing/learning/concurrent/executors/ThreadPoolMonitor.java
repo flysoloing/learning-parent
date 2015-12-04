@@ -5,8 +5,8 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 线程池监控器<p>
  *
- * @user laitao
- * @date 2015/11/18 0:11
+ * User: laitao<br>
+ * Date:  2015/11/18 0:11
  */
 public class ThreadPoolMonitor {
 

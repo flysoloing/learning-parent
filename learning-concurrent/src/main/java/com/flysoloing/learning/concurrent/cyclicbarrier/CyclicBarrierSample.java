@@ -3,7 +3,7 @@ package com.flysoloing.learning.concurrent.cyclicbarrier;
 import java.util.concurrent.CyclicBarrier;
 
 /**
- * <br>
+ * CyclicBarrier示例<br>
  * User: laitao<br>
  * Date: 2015/12/3<br>
  * Time: 1:09<br>

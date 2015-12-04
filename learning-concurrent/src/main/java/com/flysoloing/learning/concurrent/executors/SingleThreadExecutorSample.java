@@ -10,8 +10,8 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * Executors.newSingleThreadExecutor示例<p>
  *
- * @user laitao
- * @date 2015/11/18 0:06
+ * User: laitao<br>
+ * Date:  2015/11/18 0:06
  */
 public class SingleThreadExecutorSample {
 

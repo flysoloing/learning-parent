@@ -3,7 +3,7 @@ package com.flysoloing.learning.concurrent.countdownlatch;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * <br>
+ * CountDownLatch示例<br>
  * User: laitao<br>
  * Date: 2015/12/3<br>
  * Time: 1:05<br>

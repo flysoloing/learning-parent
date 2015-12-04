@@ -9,8 +9,8 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * Executors.newCachedThreadPool示例<p>
  *
- * @user laitao
- * @date 2015/11/18 0:36
+ * User: laitao<br>
+ * Date:  2015/11/18 0:36
  */
 public class CachedThreadPoolSample {
 
